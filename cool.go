@@ -1,16 +1,11 @@
 package main
 
-import "fmt"
+
+import("github.com/common-nighthawk/go-figure")
 
 func main() {
-    fmt.Println(  
-    _   _____ ____ ____	      
-   / \  |_ _|_   _/ ___| 
-  / _ \  | |  | | \___ \ 
- / ___ \ | |  | |  ___) |
-/_/   \_\___| |_| |____/ 
-                         
-)
+  myFigure := figure.NewFigure("A I T S", "", true)
+  myFigure.Print()
 }
 
 import (
