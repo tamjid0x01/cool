@@ -1,12 +1,7 @@
 package main
 
 
-import("github.com/common-nighthawk/go-figure")
 
-func main() {
-  myFigure := figure.NewFigure("A I T S", "", true)
-  myFigure.Print()
-}
 
 import (
 	"bufio"
