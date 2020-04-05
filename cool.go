@@ -1,5 +1,18 @@
 package main
 
+import "fmt"
+
+func main() {
+    fmt.Println(  
+    _   _____ ____ ____	      
+   / \  |_ _|_   _/ ___| 
+  / _ \  | |  | | \___ \ 
+ / ___ \ | |  | |  ___) |
+/_/   \_\___| |_| |____/ 
+                         
+)
+}
+
 import (
 	"bufio"
 	"encoding/json"
