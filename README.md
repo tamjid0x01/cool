@@ -29,10 +29,10 @@ or
 Thanks @tomnomom for [waybackurls](https://github.com/tomnomnom/waybackurls)!
 
 ## contract us :
-### twitter [Tamjid](https://twitter.com/tamjidur_hacker)
+### twitter : [Tamjid](https://twitter.com/tamjidur_hacker)
 
-### Linkedin[Tamjidur Rohman](https://www.linkedin.com/in/tamjidur-rohman-839807152/)
+### Linkedin :[Tamjidur Rohman](https://www.linkedin.com/in/tamjidur-rohman-839807152/)
 
-### Facebook[Tamjid](https://www.facebook.com/tamjidaits)
+### Facebook :[Tamjid](https://www.facebook.com/tamjidaits)
 
 # AITS
