@@ -1,4 +1,5 @@
-# getallurls (gau)
+# Get All Urls  (COOl)
+enum
 Fetch known URLs from  [Tamjid CEO at AITS](https://www.linkedin.com/in/tamjidur-rohman-839807152/), the Wayback Machine, and Common Crawl. Originally built as a microservice.
 
 ### usage:
