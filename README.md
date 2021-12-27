@@ -1,6 +1,6 @@
 # Get All Urls  (COOl)
 enum
-Fetch known URLs from  [Tamjid CEO at AITS](https://www.linkedin.com/in/tamjidur-rohman-839807152/), the Wayback Machine, and Common Crawl. Originally built as a microservice.
+Fetch known URLs from  , the Wayback Machine, and Common Crawl. Originally built as a microservice by [Tamjid ](https://www.linkedin.com/in/tamjid0x01/)
 
 ### usage:
 ```
